@@ -1,1 +1,9 @@
 @import url("rest.css");
+
+:root {
+    --vermelho: #c90606;
+}
+
+body {
+    background-color: var(--cor-fundo);
+}
