@@ -1,6 +1,7 @@
 @import url("rest.css");
-
+@import url("header.css");
 :root {
+    color: aliceblue;
     --vermelho: #c90606;
 }
 
