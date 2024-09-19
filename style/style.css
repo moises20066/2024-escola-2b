@@ -8,3 +8,26 @@
 body {
     background-color: var(--cor-fundo);
 }
+caixa__imagem{
+
+}
+padding: 1em;
+  .lista-menu{  
+      display: none;
+      position: absolute;
+      justify-content: ;
+      top: 100%;
+      width: 60vw;
+ }
+
+
+    .caixa__botao:checked~.lista-menu {
+        display: block;
+    }
+.cabecalho{
+    bacground-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
